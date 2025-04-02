@@ -4,6 +4,8 @@
 
 # APK : https://drive.google.com/file/d/1e_1gRSCWIbUW7_f7AQXwNo6-uD_jPH4C/view?usp=drive_link
 
+# YOUTUBE LINK(SCREEN RECODING): https://youtu.be/zH7kmH2u3lk?si=mdTyAWcdt_1Pp8N9
+
 # SCREENSHOTS:
 <img src="https://github.com/user-attachments/assets/45c0ab80-04d1-48bf-8258-35c17ec15b0a" width="250">
 <img src="https://github.com/user-attachments/assets/37028ff7-c89a-4578-b924-a94c6b310378" width="250">
